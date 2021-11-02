@@ -1,11 +1,11 @@
 # An integer assignment
-AGE = 45
+age = 45
 
 # A floating point
-SALARY = 1456.8
+salary = 1456.8
 
 # A string
-NAME = "John"
+name = "John"
 
 print(age)
 print(salary)

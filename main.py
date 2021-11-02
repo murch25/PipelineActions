@@ -9,4 +9,4 @@ name = "John"
 
 print(age)
 print(salary)
-print(name)
+    print(name)
